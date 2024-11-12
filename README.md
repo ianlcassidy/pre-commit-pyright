@@ -6,7 +6,7 @@ In your `.pre-commit-config.yaml` include the following block.
 
 ```
 -   repo: https://github.com/necaris/pre-commit-pyright
-    rev: '1.1.365'
+    rev: '1.1.388'
     hooks:
     -   id: pyright
 ```
